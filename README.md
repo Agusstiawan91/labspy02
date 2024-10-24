@@ -28,4 +28,5 @@
 
 ![Teks Alternatif](https://github.com/Agusstiawan91/labspy02/blob/559d39fe8521b2dbde3363c8af8b25b6c66472cb/ss2.png)
 
-
+# Flowchart
+![Teks Alternatif](https://github.com/Agusstiawan91/labspy02/blob/0c33ffa42f197d91001b1a57bdc2a5f4b26dc948/flowchart.png)
