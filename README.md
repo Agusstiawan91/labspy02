@@ -26,4 +26,6 @@
 # Screenshots
 ![Teks Alternatif](https://github.com/Agusstiawan91/labspy02/blob/b9c631a22ddfdcfc748486680ac5f80e96f30c41/ss1.png)
 
+![Teks Alternatif](https://github.com/Agusstiawan91/labspy02/blob/559d39fe8521b2dbde3363c8af8b25b6c66472cb/ss2.png)
+
 
