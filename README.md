@@ -23,6 +23,7 @@
 
    Selesai: Mengakhiri program.
 
-![App Screenshot](./ss1.png.)
+# Screenshots
+![Teks Alternatif](https://github.com/Agusstiawan91/labspy02/blob/b9c631a22ddfdcfc748486680ac5f80e96f30c41/ss1.png)
 
 
