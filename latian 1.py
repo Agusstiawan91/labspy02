@@ -1,27 +1,15 @@
-nama = input("Masukkan nama: ") 
-uts = input("Masukkan nilai UTS: ")
-uas = input("Masukkan nilai UAS: ")
-tugas = input("Masukkan nilai Tugas: ")
+# Meminta input dari pengguna
+bilangan1 = input("Masukkan bilangan pertama: ")
+bilangan2 = input("Masukkan bilangan kedua: ")
+bilangan3 = input("Masukkan bilangan ketiga: ")
 
-akhir = (int(tugas) * 0.2) + (int(uts) * 0.4) + (int(uas) * 0.4)
-
-keterangan = ("TIDAK LULUS", "LULUS")[akhir > 60.0]
-
-if akhir > 80:
-    huruf = "A"
-elif akhir > 70:
-    huruf = "B"
-elif akhir > 50:
-    huruf = "C"
-elif akhir > 40:
-    huruf = "D"
+# Menentukan bilangan terbesar
+if bilangan1 >= bilangan2 and bilangan1 >= bilangan3:
+    terbesar = bilangan1
+elif bilangan2 >= bilangan1 and bilangan2 >= bilangan3:
+    terbesar = bilangan2
 else:
-    huruf = "E"
+    terbesar = bilangan3
 
-print("Nama:", nama)
-print("Nilai UTS:", uts)
-print("Nilai UAS:", uas)
-print("Nilai Tugas:", tugas)
-print("Nilai Akhir:", akhir)
-print("Nilai Huruf:", huruf)
-print("Keterangan:", keterangan)
+# Menampilkan bilangan terbesar
+print("Bilangan terbesar adalah:",terbesar)
