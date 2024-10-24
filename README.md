@@ -23,4 +23,6 @@
 
    Selesai: Mengakhiri program.
 
+![App Screenshot](./ss1.png.)
+
 
