@@ -1,27 +1,29 @@
 # Algoritma Mencari Bilangan Terbesar
-1. Input : Tiga bilangan bulat(bilangan 1, bilangan 2, dan bilangan 3)
-2. Output : Bilangan terbesar
-3. Langkah Langkah :
+Input : Tiga bilangan bulat(bilangan 1, bilangan 2, dan bilangan 3)
 
-   Mulai: Memulai program.
+Output : Bilangan terbesar
 
-   Input:
+Langkah Langkah :
 
-   Minta pengguna untuk memasukkan bilangan 1, bilangan 2, dan bilangan 3.
+   1. Mulai: Memulai program.
 
-   Proses:
+   2. Input:
 
-   Bandingkan bilangan1, bilangan2, dan bilangan3:
+      Minta pengguna untuk memasukkan bilangan 1, bilangan 2, dan bilangan 3.
 
-   Jika bilangan1 lebih besar atau sama dengan bilangan2 dan bilangan3, maka set terbesar ke bilangan1.
+   3. Proses:
 
-   Jika bilangan2 lebih besar atau sama dengan bilangan1 dan bilangan3, maka set terbesar ke bilangan2.
+      Bandingkan bilangan1, bilangan2, dan bilangan3:
 
-   Jika tidak, set terbesar ke bilangan3.
+      Jika bilangan1 lebih besar atau sama dengan bilangan2 dan bilangan3, maka set terbesar ke bilangan1.
 
-   Output: Tampilkan bilangan terbesar.
+      Jika bilangan2 lebih besar atau sama dengan bilangan1 dan bilangan3, maka set terbesar ke bilangan2.
 
-   Selesai: Mengakhiri program.
+      Jika tidak, set terbesar ke bilangan3.
+
+   4. Output: Tampilkan bilangan terbesar.
+
+   5. Selesai: Mengakhiri program.
 
 # Screenshots
 ![Teks Alternatif](https://github.com/Agusstiawan91/labspy02/blob/b9c631a22ddfdcfc748486680ac5f80e96f30c41/ss1.png)
